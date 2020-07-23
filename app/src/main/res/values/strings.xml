@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutLogin</string>
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="image_description">Image Icon</string>
+    <string name="register_text">Don\'t Have an account? Register Now</string>
+</resources>
